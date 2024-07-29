@@ -9,4 +9,4 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya. In this profile, I share the projects I developed on the topics I learned recently.
+Hi there 👋. I’m Mustafa Saydam. In this profile, I share the projects I developed on the topics I learned recently.
